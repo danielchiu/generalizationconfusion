@@ -1,5 +1,5 @@
 # Generalization by Noticing Confusion
-This is the anonymized implementation of the paper [Generalization by Noticing Confusion]
+This is the official implementation of the paper [Generalization by Noticing Confusion]
 
 ## Requirements
 
