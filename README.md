@@ -1,5 +1,5 @@
 # Generalization by Noticing Confusion
-This is the official implementation of the paper [Generalization by Noticing Confusion]
+This is the official implementation of the paper [Generalization by Noticing Confusion](https://arxiv.org/abs/2006.07737
 
 ## Requirements
 
@@ -60,3 +60,11 @@ Here, TRIAL_NAME is used for experiment naming and CLASS_RATIO is the ratio of n
 
 ## Reference
 For technical details, please refer to the paper.
+```
+@article{chiu2020generalization,
+        title = {Generalization by Recognizing Confusion},
+        author = {Daniel Chiu and Franklyn Wang and Scott Duke Kominers},
+        journal = {arXiv preprint arXiv:2006.07737},
+        year = {2020}
+}
+```
