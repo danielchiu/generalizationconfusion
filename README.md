@@ -1,5 +1,5 @@
 # Generalization by Noticing Confusion
-This is the official implementation of the paper [Generalization by Noticing Confusion](https://arxiv.org/abs/2006.07737
+This is the official implementation of the paper [Generalization by Noticing Confusion](https://arxiv.org/abs/2006.07737)
 
 ## Requirements
 
